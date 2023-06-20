@@ -1,7 +1,7 @@
 # Gestion-des-Etudiants
 Application mobile pour la gestion des étudiants
 
-<h1>Etape 1</h1> Interface 1/br>
+<h1>Etape 1</h1> Interface 1</br>
 l'enseignant doit saisi le nom d'étudiant et la classe après clique sur la boutton ajouter</br>
 
 <h1>Etape 2</h1> Interface 2</br>
